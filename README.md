@@ -2,7 +2,7 @@
 
 ## Project URL
 
-https://burnyourcalories.herokuapp.com
+https://burnyourcalories.herokuapp.com (it will take a few seconds to load up for the first time)
 
 ## Project Video URL
 
